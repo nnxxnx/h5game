@@ -1,0 +1,21 @@
+{
+  "name": "h5game",
+  "version": "0.0.0",
+  "description": "My H5Game Package",
+  "main": "index.html",
+  "scripts": {
+    "test": "rtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnxxnx/h5game.git"
+  },
+  "keywords": [
+    "HTML5"
+  ],
+  "author": "nnxxnx",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/nnxxnx/h5game/issues"
+  }
+}
